@@ -85,7 +85,7 @@ am4core.ready(function () {
   });
 
   setInterval(function () {
-    var value = Math.round(Math.random() * 100);
+    var value = Math.round(80);
     var animation = new am4core.Animation(
       hand,
       {
