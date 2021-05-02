@@ -50,14 +50,70 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-3">
-                                    <p class="font-weight-bold fs-heading03">3,407.03 [<i class="fas fa-circle text-danger px-8"></i> 80.37%]</p>
+                                    <p class="font-weight-bold fs-heading04">3,407.03 [<i class="fas fa-circle text-danger px-8"></i> 80.37%]</p>
                                     <div class="row">
                                         <div class="col-6">
-                                            <p class="fs-body01">Status produksi</p>
+                                            <p class="fs-body02 mb-8">Status produksi</p>
                                         </div>
                                         <div class="col-6">
-                                            <p class="font-weight-bold fs-body01 mb-8">: 18 April 2021</p>
-                                            <p class="font-weight-bold fs-body01"><i class="fas fa-long-arrow-alt-down text-danger pr-8"></i> 80.37%</p>
+                                            <p class="font-weight-bold fs-body02 mb-8">: 18 April 2021</p>
+                                            <p class="font-weight-bold fs-body02 mb-8"><i class="fas fa-long-arrow-alt-down text-danger pr-8"></i> 80.37%</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Produksi kemarin</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Rata rata April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">MTD</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Tertinggi April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">YTD</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Target April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Target rata-rata April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
                                         </div>
                                     </div>
                                 </div>
@@ -79,7 +135,7 @@
         <!-- ./first row -->
 
         <!-- second row -->
-        <div class="section mt-32">
+        <div class="section mt-16">
             <div class="row">
                 <div class="col-12">
                     <div class="card">
@@ -89,14 +145,70 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-3">
-                                    <p class="font-weight-bold fs-heading03">3,407.03 [<i class="fas fa-circle text-success px-8"></i> 80.37%]</p>
+                                    <p class="font-weight-bold fs-heading04">3,407.03 [<i class="fas fa-circle text-success px-8"></i> 80.37%]</p>
                                     <div class="row">
                                         <div class="col-6">
-                                            <p class="fs-body01">Status produksi</p>
+                                            <p class="fs-body02">Status produksi</p>
                                         </div>
                                         <div class="col-6">
-                                            <p class="font-weight-bold fs-body01 mb-8">: 18 April 2021</p>
-                                            <p class="font-weight-bold fs-body01"><i class="fas fa-long-arrow-alt-up text-success pr-8"></i> 80.37%</p>
+                                            <p class="font-weight-bold fs-body02 mb-8">: 18 April 2021</p>
+                                            <p class="font-weight-bold fs-body02 mb-8"><i class="fas fa-long-arrow-alt-up text-success pr-8"></i> 80.37%</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Produksi kemarin</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Rata rata April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">MTD</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Tertinggi April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">YTD</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Target April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="fs-body02 mb-8">Target rata-rata April 2021</p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
                                         </div>
                                     </div>
                                 </div>
