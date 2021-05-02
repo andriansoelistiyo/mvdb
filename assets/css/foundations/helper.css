@@ -43,9 +43,8 @@
 
 /* layout dashboard */
 .layout-dashboard {
-  height: 100vh;
-  width: 100vw;
   background-color: var(--finpediaBlack06);
+  font-family: finpediaRoboto400;
 }
 
 /* mobile screen */
