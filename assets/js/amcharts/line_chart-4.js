@@ -1,6 +1,6 @@
 am4core.ready(function () {
   // Themes begin
-  am4core.useTheme(am4themes_animated);
+  am4core.useTheme(am4themes_red);
   // Themes end
 
   // Create chart instance

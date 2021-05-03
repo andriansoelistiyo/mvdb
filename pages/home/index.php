@@ -236,24 +236,28 @@
         <!-- ./second row -->
     </div>
 
-    <!-- library bootstrap script -->
+    <!-- library bootstrap -->
     <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
     <script src="../../assets/plugins/bootstrap-4.0.0-dist/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="../../assets/plugins/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" type="text/javascript" charset="utf-8"></script>
-    <!-- ./library bootstrap script -->
+    <!-- ./library bootstrap -->
 
-    <!-- library CDN amcharts script -->
+    <!-- library CDN amcharts -->
     <script src="https://cdn.amcharts.com/lib/4/core.js" type="text/javascript"></script>
     <script src="https://cdn.amcharts.com/lib/4/charts.js" type="text/javascript"></script>
     <script src="https://cdn.amcharts.com/lib/4/themes/animated.js" type="text/javascript"></script>
-    <!-- ./library CDN amcharts script -->
+    <!-- ./library CDN amcharts -->
+
+    <!-- custom themes amcharts -->
+    <script src="../../assets/js/amcharts/custom_themes.js" type="text/javascript" charset="utf-8"></script>
+    <!-- ./custom themes amcharts -->
 
     <!-- list amcharts -->
     <script src="../../assets/js/amcharts/line_chart-1.js" type="text/javascript" charset="utf-8"></script>
     <script src="../../assets/js/amcharts/line_chart-2.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../../assets/js/amcharts/gauge-1.js" type="text/javascript" charset="utf-8"></script>
     <script src="../../assets/js/amcharts/line_chart-3.js" type="text/javascript" charset="utf-8"></script>
     <script src="../../assets/js/amcharts/line_chart-4.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/gauge-1.js" type="text/javascript" charset="utf-8"></script>
     <script src="../../assets/js/amcharts/gauge-2.js" type="text/javascript" charset="utf-8"></script>
     <!-- ./list amcharts -->
 </body>
