@@ -13,7 +13,7 @@ am4core.ready(function () {
 
   var axis = chart.xAxes.push(new am4charts.ValueAxis());
   axis.min = 0;
-  axis.max = 100;
+  axis.max = 150;
   axis.strictMinMax = true;
   axis.renderer.radius = am4core.percent(80);
   axis.renderer.inside = true;
@@ -35,7 +35,7 @@ am4core.ready(function () {
 
   var axis2 = chart.xAxes.push(new am4charts.ValueAxis());
   axis2.min = 0;
-  axis2.max = 100;
+  axis2.max = 150;
   axis2.strictMinMax = true;
   axis2.renderer.labels.template.disabled = true;
   axis2.renderer.ticks.template.disabled = true;
@@ -49,7 +49,7 @@ am4core.ready(function () {
 
   var range1 = axis2.axisRanges.create();
   range1.value = 50;
-  range1.endValue = 100;
+  range1.endValue = 150;
   range1.axisFill.fillOpacity = 1;
   range1.axisFill.fill = colorSet.getIndex(2);
 
@@ -61,7 +61,7 @@ am4core.ready(function () {
   label.isMeasured = false;
   label.fontSize = 45;
   label.x = am4core.percent(50);
-  label.y = am4core.percent(100);
+  label.y = am4core.percent(150);
   label.horizontalCenter = "middle";
   label.verticalCenter = "bottom";
   label.text = "50%";
