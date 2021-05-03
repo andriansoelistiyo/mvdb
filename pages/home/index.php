@@ -119,15 +119,15 @@
                                 </div>
                                 <div class="media-body">
                                     <div class="row">
-                                        <div class="col-4">
+                                        <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
                                             <div id="line_chart-1"></div>
                                         </div>
-                                        <div class="col-4">
+                                        <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
                                             <div id="line_chart-2"></div>
                                         </div>
-                                        <div class="col-4">
+                                        <div class="col-3">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
                                             <div id="gauge-1"></div>
                                         </div>
@@ -221,15 +221,15 @@
                                 </div>
                                 <div class="media-body">
                                     <div class="row">
-                                        <div class="col-4">
+                                        <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
                                             <div id="line_chart-3"></div>
                                         </div>
-                                        <div class="col-4">
+                                        <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
                                             <div id="line_chart-4"></div>
                                         </div>
-                                        <div class="col-4">
+                                        <div class="col-3">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
                                             <div id="gauge-2"></div>
                                         </div>
