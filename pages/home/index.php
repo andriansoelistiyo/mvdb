@@ -48,86 +48,90 @@
                             PRODUKSI MINYAK LIMAU April 2020 s/d April 2021 (BOPD)
                         </div>
                         <div class="card-body">
-                            <div class="row">
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04">3,407.03 [<i class="fas fa-circle text-danger px-8"></i> 80.37%]</p>
+                            <div class="media">
+                                <div class="mr-32" style="min-width: 14%;">
+                                    <p class="font-weight-bold fs-heading04 text-nowrap">3,407.03 [<i class="fas fa-circle text-danger px-8"></i> 80.37%]</p>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Status produksi</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Status produksi</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 18 April 2021</p>
-                                            <p class="font-weight-bold fs-body02 mb-8"><i class="fas fa-long-arrow-alt-down text-danger pr-8"></i> 80.37%</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 18 April 2021</p>
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap"><i class="fas fa-long-arrow-alt-down text-danger pr-8"></i> 80.37%</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Produksi kemarin</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Produksi kemarin</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Rata rata April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">MTD</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Rata rata April 2021</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Tertinggi April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">YTD</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">MTD</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Target April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Target rata-rata April 2021</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Tertinggi April 2021</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">YTD</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Target April 2021</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Target rata-rata April 2021</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                    <div id="line_chart-1"></div>
-                                </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
-                                    <div id="line_chart-2"></div>
-                                </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                    <div id="gauge-1"></div>
+                                <div class="media-body">
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
+                                            <div id="line_chart-1"></div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
+                                            <div id="line_chart-2"></div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
+                                            <div id="gauge-1"></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -146,86 +150,90 @@
                             PRODUKSI GAS LIMAU April 2020 s/d April 2021 (BOPD)
                         </div>
                         <div class="card-body">
-                            <div class="row">
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04">3,407.03 [<i class="fas fa-circle text-success px-8"></i> 80.37%]</p>
+                            <div class="media">
+                                <div class="mr-32" style="min-width: 14%;">
+                                    <p class="font-weight-bold fs-heading04 text-nowrap">3,407.03 [<i class="fas fa-circle text-success px-8"></i> 80.37%]</p>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02">Status produksi</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Status produksi</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 18 April 2021</p>
-                                            <p class="font-weight-bold fs-body02 mb-8"><i class="fas fa-long-arrow-alt-up text-success pr-8"></i> 80.37%</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 18 April 2021</p>
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap"><i class="fas fa-long-arrow-alt-up text-success pr-8"></i> 80.37%</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Produksi kemarin</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Produksi kemarin</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Rata rata April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">MTD</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Rata rata April 2021</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Tertinggi April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">YTD</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">MTD</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Target April 2021</p>
-                                        </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col-6">
-                                            <p class="fs-body02 mb-8">Target rata-rata April 2021</p>
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Tertinggi April 2021</p>
                                         </div>
-                                        <div class="col-6">
-                                            <p class="font-weight-bold fs-body02 mb-8">: 3,477.11</p>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">YTD</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Target April 2021</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8">
+                                            <p class="fs-body03 mb-8 text-nowrap">Target rata-rata April 2021</p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-body03 mb-8 text-nowrap">: 3,477.11</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                    <div id="line_chart-3"></div>
-                                </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
-                                    <div id="line_chart-4"></div>
-                                </div>
-                                <div class="col-3">
-                                    <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                    <div id="gauge-2"></div>
+                                <div class="media-body">
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
+                                            <div id="line_chart-3"></div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
+                                            <div id="line_chart-4"></div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
+                                            <div id="gauge-2"></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
