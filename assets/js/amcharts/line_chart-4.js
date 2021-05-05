@@ -130,6 +130,9 @@ am4core.ready(function () {
   series3.tensionX = 0.7;
   series3.yAxis = valueAxis2;
   series3.tooltipText = "{name}\n[bold font-size: 20]{valueY}[/]";
+  series3.stroke = am4core.color("#1da1f2"); // blue
+  series3.tooltip.getFillFromObject = false;
+  series3.tooltip.background.fill = am4core.color("#1da1f2");
 
   var bullet3 = series3.bullets.push(new am4charts.CircleBullet());
   bullet3.circle.radius = 3;

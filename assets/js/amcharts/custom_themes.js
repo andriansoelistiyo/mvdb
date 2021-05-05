@@ -5,6 +5,6 @@ function am4themes_green(target) {
 }
 function am4themes_red(target) {
   if (target instanceof am4core.ColorSet) {
-    target.list = [am4core.color("#DF3520")];
+    target.list = [am4core.color("#ff0000")];
   }
 }
