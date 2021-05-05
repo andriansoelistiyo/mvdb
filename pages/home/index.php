@@ -253,6 +253,7 @@
     <!-- library CDN amcharts -->
     <script src="https://cdn.amcharts.com/lib/4/core.js" type="text/javascript"></script>
     <script src="https://cdn.amcharts.com/lib/4/charts.js" type="text/javascript"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/material.js" type="text/javascript"></script>
     <script src="https://cdn.amcharts.com/lib/4/themes/animated.js" type="text/javascript"></script>
     <!-- ./library CDN amcharts -->
 
