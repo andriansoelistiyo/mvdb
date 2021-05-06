@@ -251,9 +251,9 @@
     <script src="https://cdn.amcharts.com/lib/4/themes/animated.js" type="text/javascript"></script>
     <!-- ./library CDN amcharts -->
 
-    <!-- custom themes amcharts -->
+    <!-- custom themes amcharts: if you wanna change color bar chart -->
     <script src="../../assets/js/amcharts/custom_themes.js" type="text/javascript" charset="utf-8"></script>
-    <!-- ./custom themes amcharts -->
+    <!-- ./custom themes amcharts: if you wanna change color bar chart -->
 
     <?php include "../../components/charts/line-1.php"; ?>
     <?php include "../../components/charts/line-2.php"; ?>

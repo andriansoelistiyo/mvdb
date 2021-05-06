@@ -115,6 +115,7 @@
         // valueAxis2.renderer.grid.template.disabled = true;
 
         // Create series
+        // Bar Chart
         var series1 = chart.series.push(new am4charts.LineSeries());
         series1.dataFields.valueY = "value";
         series1.dataFields.dateX = "date";
@@ -125,11 +126,12 @@
         series1.strokeWidth = 2;
         series1.fillOpacity = 0.5;
 
+        // Line Chart
         var series2 = chart.series.push(new am4charts.LineSeries());
         series2.dataFields.valueY = "value2";
         series2.dataFields.dateX = "date";
         series2.name = "Target";
-        series2.strokeWidth = 2;
+        series2.strokeWidth = 3;
         series2.tensionX = 0.7;
         series2.yAxis = valueAxis1;
         series2.tooltipText =
