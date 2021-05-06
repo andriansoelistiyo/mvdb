@@ -31,12 +31,7 @@
 </head>
 
 <body class="layout-dashboard">
-    <!-- Image and text -->
-    <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-            <img src="../../assets/img/pertamina-logo.png" width="auto" height="30" class="d-inline-block align-top" alt="pertamina logo">
-        </a>
-    </nav>
+    <?php include "../../components/navbar/index.php"; ?>
 
     <div class="container-fluid">
         <!-- first row -->
@@ -121,11 +116,11 @@
                                     <div class="row">
                                         <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                            <div id="line_chart-1"></div>
+                                            <div id="line-1"></div>
                                         </div>
                                         <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
-                                            <div id="line_chart-2"></div>
+                                            <div id="line-2"></div>
                                         </div>
                                         <div class="col-3">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
@@ -223,11 +218,11 @@
                                     <div class="row">
                                         <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
-                                            <div id="line_chart-3"></div>
+                                            <div id="line-3"></div>
                                         </div>
                                         <div class="col">
                                             <p class="font-weight-bold fs-heading04 text-center">Weekly</p>
-                                            <div id="line_chart-4"></div>
+                                            <div id="line-4"></div>
                                         </div>
                                         <div class="col-3">
                                             <p class="font-weight-bold fs-heading04 text-center">Yearly</p>
@@ -260,14 +255,12 @@
     <script src="../../assets/js/amcharts/custom_themes.js" type="text/javascript" charset="utf-8"></script>
     <!-- ./custom themes amcharts -->
 
-    <!-- list amcharts -->
-    <script src="../../assets/js/amcharts/line_chart-1.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/line_chart-2.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/gauge-1.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/line_chart-3.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/line_chart-4.js" type="text/javascript" charset="utf-8"></script>
-    <script src="../../assets/js/amcharts/gauge-2.js" type="text/javascript" charset="utf-8"></script>
-    <!-- ./list amcharts -->
+    <?php include "../../components/charts/line-1.php"; ?>
+    <?php include "../../components/charts/line-2.php"; ?>
+    <?php include "../../components/charts/gauge-1.php"; ?>
+    <?php include "../../components/charts/line-3.php"; ?>
+    <?php include "../../components/charts/line-4.php"; ?>
+    <?php include "../../components/charts/gauge-2.php"; ?>
 </body>
 
 </html>
