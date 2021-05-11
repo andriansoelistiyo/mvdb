@@ -115,16 +115,18 @@
         // valueAxis2.renderer.grid.template.disabled = true;
 
         // Create series
-        // Bar Chart
-        var series1 = chart.series.push(new am4charts.LineSeries());
+        // Column Chart
+        var series1 = chart.series.push(new am4charts.ColumnSeries());
         series1.dataFields.valueY = "value";
         series1.dataFields.dateX = "date";
         series1.yAxis = valueAxis1;
         series1.name = "Data Produksi";
         series1.tooltipText =
             "[regular font-size: 12]{name} ( {dateX} )\n[bold font-size: 12]{valueY}[/]";
-        series1.strokeWidth = 2;
-        series1.fillOpacity = 0.5;
+        series1.fill = chart.colors.getIndex(0);
+        series1.strokeWidth = 0;
+        series1.clustered = false;
+        series1.columns.template.width = am4core.percent(40);
 
         // Line Chart
         var series2 = chart.series.push(new am4charts.LineSeries());

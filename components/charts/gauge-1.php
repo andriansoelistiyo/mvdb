@@ -1,7 +1,6 @@
 <script>
     am4core.ready(function() {
         // Themes begin
-        am4core.useTheme(am4themes_green);
         am4core.useTheme(am4themes_animated);
         // Themes end
 
@@ -47,13 +46,15 @@
         range0.value = 0;
         range0.endValue = 50;
         range0.axisFill.fillOpacity = 1;
-        range0.axisFill.fill = colorSet.getIndex(0);
+        //range0.axisFill.fill = colorSet.getIndex(0);
+        range0.axisFill.fill = am4core.color("#39FF14");
 
         var range1 = axis2.axisRanges.create();
         range1.value = 50;
         range1.endValue = 150;
         range1.axisFill.fillOpacity = 1;
-        range1.axisFill.fill = colorSet.getIndex(2);
+        //range1.axisFill.fill = colorSet.getIndex(2);
+        range1.axisFill.fill = am4core.color("#39FF14");
 
         /**
          * Label
