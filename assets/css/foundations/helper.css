@@ -1,0 +1,56 @@
+:root {
+  /* font */
+  --heading01: 48px;
+  --heading02: 36px;
+  --heading03: 24px;
+  --heading04: 21px;
+  --heading05: 18px;
+  --body01: 16px;
+  --body02: 14px;
+  --body03: 12px;
+  --button: 14px;
+
+  /* line height */
+  --lhHeading01: 72px;
+  --lhHeading02: 54px;
+  --lhHeading03: 36px;
+  --lhHeading04: 31.5px;
+  --lhHeading05: 27px;
+  --lhBody01: 24px;
+  --lhBody02: 21px;
+  --lhBody03: 18px;
+  --lhButton: 21px;
+
+  /* shadow */
+  --shadow: 0 1px 6px 0 rgba(49, 53, 59, 0.12);
+  --shadowHover: 0 6px 18px 0 rgb(0 0 0 / 15%);
+
+  /* border radius */
+  --smallRadius: 8px;
+  --mediumRadius: 16px;
+  --bigRadius: 32px;
+}
+
+/* mobile screen */
+@media screen and (max-width: 576px) {
+}
+
+/* horizontal mobile screen */
+@media screen and (min-width: 577px) and (max-width: 768px) {
+}
+
+/* ipad screen */
+@media screen and (min-width: 767px) and (max-width: 992px) {
+}
+
+/* ipad pro screen */
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+}
+
+/* desktop screen */
+@media screen and (min-width: 1201px) {
+}
+
+html {
+  scroll-behavior: smooth;
+}

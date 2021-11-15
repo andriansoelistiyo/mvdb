@@ -1,0 +1,75 @@
+.p-8 {
+    padding: 8px;
+}
+.p-16 {
+    padding: 16px;
+}
+.p-32 {
+    padding: 32px;
+}
+
+.pt-8 {
+    padding-top: 8px;
+}
+.pt-16 {
+    padding-top: 16px;
+}
+.pt-32 {
+    padding-top: 32px;
+}
+
+.pr-8 {
+    padding-right: 8px;
+}
+.pr-16 {
+    padding-right: 16px;
+}
+.pr-32 {
+    padding-right: 32px;
+}
+
+.pb-8 {
+    padding-bottom: 8px;
+}
+.pb-16 {
+    padding-bottom: 16px;
+}
+.pb-32 {
+    padding-bottom: 32px;
+}
+
+.pl-8 {
+    padding-left: 8px;
+}
+.pl-16 {
+    padding-left: 16px;
+}
+.pl-32 {
+    padding-left: 32px;
+}
+
+.px-8 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.px-16 {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.px-32 {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.py-8 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.py-16 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.py-32 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}

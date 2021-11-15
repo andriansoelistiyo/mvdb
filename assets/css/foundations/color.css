@@ -1,0 +1,79 @@
+:root {
+  /* finpedia blue */
+  --blue01: #001b52;
+  --blue02: #0036a3;
+  --blue03: #0052f5;
+  --blue04: #4785ff;
+  --blue05: #99bbff;
+  --blue06: #ebf1ff;
+
+  /* finpedia green */
+  --green01: #024f2a;
+  --green02: #049f54;
+  --green03: #03ac0e;
+  --green04: #4cfaa6;
+  --green05: #9cfcce;
+  --green06: #ebfef5;
+
+  /* finpedia red */
+  --red01: #520a00;
+  --red02: #a31300;
+  --red03: #f51d00;
+  --red04: #ff5d47;
+  --red05: #ffa599;
+  --red06: #ffedeb;
+
+  /* finpedia yellow */
+  --yellow01: #523600;
+  --yellow02: #a36d00;
+  --yellow03: #f5a300;
+  --yellow04: #ffc247;
+  --yellow05: #ffdd99;
+  --yellow06: #fff8eb;
+
+  /* finpedia orange */
+  --orange01: #521400;
+  --orange02: #a32900;
+  --orange03: #f53d00;
+  --orange04: #ff6937;
+  --orange05: #ffb399;
+  --orange06: #fff0eb;
+
+  /* finpedia black */
+  --black01: #27292b;
+  --black02: #4e5256;
+  --black03: #747a81;
+  --black04: #9fa3a8;
+  --black05: #c9cccf;
+  --black06: #f4f5f5;
+
+  /* other colors */
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+
+  /* breakpoints */
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}

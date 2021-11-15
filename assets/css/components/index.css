@@ -1,0 +1,16 @@
+.a-card {
+  border-radius: var(--mediumRadius);
+  border: 1px solid var(--black05);
+  background-color: var(--white);
+}
+
+.icon-container {
+  background-color: var(--black06);
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
