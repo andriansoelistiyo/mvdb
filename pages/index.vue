@@ -24,12 +24,12 @@
 </template>
 
 <script>
-import ogImage from '@/assets/img/profile2.jpeg'
+import ogImage from '@/assets/img/profile3.jpg'
 export default {
   layout: (ctx) => (ctx.$device.isMobile ? 'mobile' : 'default'),
   head() {
     return {
-      title: 'Andrian Soelistiyo - My personal website',
+      title: 'Michael Yudo Sagita VDB - My personal website',
       meta: [
         {
           name: 'keywords',

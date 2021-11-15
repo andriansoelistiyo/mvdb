@@ -12,8 +12,8 @@ export default {
       bio: [
         {
           id: 1,
-          profile_image: require('~/assets/img/profile2.jpeg'),
-          name: 'Andrian Soelistiyo',
+          profile_image: require('~/assets/img/profile3.jpg'),
+          name: 'Michael Yudo Sagita VDB',
           occupation: 'UI/UX Designer',
           city: 'Kota Tangerang, Banten',
           about:
